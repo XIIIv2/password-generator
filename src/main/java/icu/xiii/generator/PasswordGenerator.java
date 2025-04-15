@@ -1,8 +1,7 @@
-package icu.xiii;
+package icu.xiii.generator;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 import java.security.SecureRandom;
 
 public class PasswordGenerator {
